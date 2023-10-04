@@ -1,0 +1,13 @@
+{
+    "C_Cpp.default.configurationProvider": "ms-vscode.cmake-tools",
+    "cSpell.words": [
+        "GLFW"
+    ],
+    "C_Cpp.errorSquiggles": "disabled",
+    "cmake.debugConfig": {
+        "cwd":"${workspaceFolder}"
+    },
+    "files.associations": {
+        "ostream": "cpp"
+    }
+}
